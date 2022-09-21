@@ -3,6 +3,15 @@
 Com o Fim da preparação, o foco neste repositório é e efetivamente fazer todo o curso proposto no Database Experience
 
 # Introdução a Banco de Dados
+!['objetivo Geral'](img/Intro_01.jpg)
+!['objetivo Geral'](img/Intro_02.jpg)
+!['objetivo Geral'](img/Intro_03.jpg)
+!['objetivo Geral'](img/Intro_04.jpg)
+!['objetivo Geral'](img/Intro_05.jpg)
+!['objetivo Geral'](img/Intro_06.jpg)
+
+
+
 # Sistemas de Gerenciamento de Banco de Dados
 # Modelagem de Dados para Banco de Dados
 # Arquitetura de Banco de Dados
