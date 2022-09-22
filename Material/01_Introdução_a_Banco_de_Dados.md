@@ -77,9 +77,17 @@ Componentes de um banco de dados
    - determina como é feito o acesso aos dados
 ![SGBD](../img/sgbd-03.jpg)
  - Manipulação
+   - manutenção de banco
+   - updates
 ![SGBD](../img/sgbd-04.jpg)
-
+ - Compartilhamento
+   - exige bloqueio para liberação das tabelas
+   - bloqueia acesso de todos até a efetivação da modificção
+![SGBD](../img/sgbd-05.jpg)
 # Breve histórico de SGBDs
+
+ - proxima etapa
+
 # Modelo de Banco de Dados Relacional
 # SGBDs mais utilizados pelo mercado
 # A era dos dados e o futuro da modelagem - Parte 1
