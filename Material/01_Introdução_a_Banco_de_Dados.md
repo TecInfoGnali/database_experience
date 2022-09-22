@@ -86,7 +86,7 @@ Componentes de um banco de dados
 ![SGBD](../img/sgbd-05.jpg)
 # Breve histórico de SGBDs
 
- - proxima etapa
+ - [proxima etapa](https://web.dio.me/course/contextualizacao-do-cenario-na-area-de-banco-de-dados-1/learning/921554bd-bd33-4c47-bae9-b245fc8a4988?back=/track/database-experience&tab=undefined)
 
 # Modelo de Banco de Dados Relacional
 # SGBDs mais utilizados pelo mercado
