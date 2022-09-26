@@ -119,6 +119,44 @@ Componentes de um banco de dados
 
 # Modelo de Banco de Dados Relacional
 
+![Historico](../img/Slide68.jpg)
+
+ - Abstração matemática da relação
+ - Algebra relacional
+
+![Historico](../img/Slide69.jpg)
+
+  - Definido pelo Administrador de banco de dados
+
+![Historico](../img/Slide70.jpg)
+
+ - manutenção
+
+![Historico](../img/Slide71.jpg)
+
+
+![Historico](../img/Slide74.jpg)
+
+usuario comum
+
+![Historico](../img/Slide76.jpg)
+
+
+
+
+
+
+
+![Historico](../img/Slide78.jpg)
+tratado pelo sitema operacional
+
+![Historico](../img/Slide80.jpg)
+integrar diversas tecnologias de sgdbs
+
+![Historico](../img/Slide81.jpg)
+![Historico](../img/Slide82.jpg)
+fontes diversas isendo integradas para ter um resultado
+![Historico](../img/Slide83.jpg)
 
 
 # SGBDs mais utilizados pelo mercado
