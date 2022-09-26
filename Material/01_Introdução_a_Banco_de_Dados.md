@@ -86,9 +86,41 @@ Componentes de um banco de dados
 ![SGBD](../img/sgbd-05.jpg)
 # Breve histórico de SGBDs
 
- - [proxima etapa](https://web.dio.me/course/contextualizacao-do-cenario-na-area-de-banco-de-dados-1/learning/921554bd-bd33-4c47-bae9-b245fc8a4988?back=/track/database-experience&tab=undefined)
+ - 60/70 Diminuir custos com pessoal
+ - Modelos baseados em sistemas de arquivos
+ - Modelo Hierarquico
+ - Modelo em rede
+ - modelo Relaciona
+   - 1970 Artigo sobre teoria de conjuntos e Algebra Relacional
+   - SQL
+   - 76 1ºSGBD
+   - 80 Oracle 2 SGBD
+   - 83 Oracle 3 SGBD
+ - Conce 
+
+![Historico](../img/hist-01.jpg)
+
+![Historico](../img/hist-02.jpg)
+
+  
+## Modelo Hierarquico
+ 
+![Historico](../img/hist-03.jpg)
+ - Organizado por dintância 
+ - Registro: links e dados
+ - TAD tree - com raiz
+
+## Modelo em Rede
+
+![Historico](../img/hist-04.jpg)
+ 
+ - Conhecer a estrutura física da estrutura de dados
+ - não existe definição da forma de relacionar
 
 # Modelo de Banco de Dados Relacional
+
+
+
 # SGBDs mais utilizados pelo mercado
 # A era dos dados e o futuro da modelagem - Parte 1
 # A era dos dados e o futuro da modelagem - Parte 2
