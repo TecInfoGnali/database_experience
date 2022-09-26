@@ -156,12 +156,75 @@ integrar diversas tecnologias de sgdbs
 ![Historico](../img/Slide81.jpg)
 ![Historico](../img/Slide82.jpg)
 fontes diversas isendo integradas para ter um resultado
-![Historico](../img/Slide83.jpg)
+
 
 
 # SGBDs mais utilizados pelo mercado
+
+![Historico](../img/Slide84.jpg)
+
+![Historico](../img/Slide85.jpg)
+
+![Historico](../img/Slide86.jpg)
+
+
+
 # A era dos dados e o futuro da modelagem - Parte 1
-# A era dos dados e o futuro da modelagem - Parte 2
+
+![Historico](../img/Slide88.jpg)
+
+![Historico](../img/Slide89.jpg)
+
+ - independente do tamanho da empresa, em mais de 90% dos casos é necessario pelo menos um sistema básico relacional
+ - 80% das situações estão nos casos acima.
+
+![Historico](../img/Slide90.jpg)
+
+ - Ambiente de pesquisa - estudos
+
+![Historico](../img/Slide91.jpg)
+
+![Historico](../img/Slide92.jpg)
+
+![Historico](../img/Slide93.jpg)
+
+![Historico](../img/Slide94.jpg)
+
+![Historico](../img/Slide95.jpg)
+
+ - 
+![Historico](../img/Slide96.jpg)
+
+ - Paralelismo
+   - Múltiplos processadores operando concorrentemente
+   - HPC - High performance computint
+ - Big Data
+   - Processamento paralelo de dados persistentes e particionados
+ - Cloud
+   - Recursos de terceiros - Soluções de tecnologia como serviço
+
+![Historico](../img/Slide97.jpg)
+
+ - nós de processamento paralelo
+ - arquivos paralelos sem persistencia de dados
+
+![Historico](../img/Slide98.jpg)
+
+ - nós de processamento paralelos
+ - arquivos paralelos com persistencia de dados
+
+
+HPC | Big data 
+---------|----------
+ sem percistencia | com perssistencia 
+
+![Historico](../img/Slide99.jpg)
+
+[proxima aula](https://web.dio.me/course/contextualizacao-do-cenario-na-area-de-banco-de-dados-1/learning/5bedd5d3-3b7b-44a9-b551-e50793da444f?back=/track/database-experience&tab=undefined)
+
+
+
+
 # Novo cenário e novas tecnologias - E agora?CENÁRIO DE DADOS
 
 
